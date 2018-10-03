@@ -4,10 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>sample-tvos-app.xcscheme</key>
+		<key>sample-tvos-app.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2DD82FCF2164EB770091A560</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2DD82FE02164EB790091A560</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2DD82FEB2164EB790091A560</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
